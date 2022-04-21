@@ -1,2 +1,6 @@
 # utp-web-2057051019-B
-Muhammad Sultan Raisyah 2057051019
+repository ini ditujukan untuk UTP.
+
+Nama  : M. Sultan R.
+NPM   : 2057051019
+Kelas : B
